@@ -62,7 +62,7 @@ The agent asks whether to install it for your user or for one project. For your 
 
 To upgrade later, paste the same line with "Upgrade" instead of "Install". The agent reads the installed version and applies what changed since, from `CHANGELOG.md`.
 
-Requirements: Claude Code 2.1.310 or newer, macOS or Linux, `perl` (preinstalled on both).
+Requirements: Claude Code 2.1.310 or newer, macOS or Linux, `perl` (preinstalled on both). Windows should work through Git Bash, which ships perl, but is not tested.
 
 ## Tests
 
