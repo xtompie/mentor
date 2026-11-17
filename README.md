@@ -15,6 +15,8 @@ Turn a session into rules for the model, or lessons for you.
 - Suggests where each rule goes: project doc, skill, or your notes.
 - Writes nothing until you approve.
 
+![Three corrections become one sentence. In this session you corrected where models go three times. Mentor proposes one rule for Billing/AGENTS.md, and you approve it. In the next session the model gets it right the first time.](assets/rules.svg)
+
 ## Why
 
 You ask for something. The model gets it almost right. You explain. Once, twice, five times. Then it works.

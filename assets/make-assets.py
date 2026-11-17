@@ -62,10 +62,10 @@ def pixel_title(word, x, y, u, fill):
 
 
 THEMES = {
-    'dark': dict(bg="#0a0907", frame="#5fa8e8", brow="#a9d2f5", eyes="#5fa8e8", mouth="#3d7bb8", beard="#a9d2f5",
-                 h1="#eef4fa", h3="#c9d3dc", tag="#5fa8e8", url="#7d8a96"),
-    'light': dict(bg=None, frame="#2f6fae", brow="#4f86c0", eyes="#2f6fae", mouth="#24578a", beard="#4f86c0",
-                  h1="#14181c", h3="#3a434c", tag="#2f6fae", url="#5a6a7a"),
+    'dark': dict(bg="#0a0907", frame="#71a7d6", brow="#b3d1eb", eyes="#71a7d6", mouth="#4d7ba8", beard="#b3d1eb",
+                 h1="#f0f4f8", h3="#c9d3dc", tag="#71a7d6", url="#7d8a96"),
+    'light': dict(bg=None, frame="#406f9d", brow="#5e86b1", eyes="#406f9d", mouth="#31577d", beard="#5e86b1",
+                  h1="#14181c", h3="#3a434c", tag="#406f9d", url="#5a6a7a"),
 }
 
 
